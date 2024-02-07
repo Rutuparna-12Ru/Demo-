@@ -1,0 +1,22 @@
+*{
+margin: 0;
+padding: o;
+box-sizing: border-box;
+
+}
+
+nav{
+    padding: O 50PX;
+    width: 100%;
+}
+
+.flex{
+    display: flex;
+}
+
+.navbar-one{
+    background-color: blue;
+    color: white;
+    height: 50px;
+    cursor: pointer;
+}
